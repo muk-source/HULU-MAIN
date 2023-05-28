@@ -4,6 +4,7 @@ import Nav from '../components/Nav'
 import Results from '../components/Results'
 import request from '../utils/request'
 // import Image from 'next/image'
+// this is just another comment
 
 
 export default function Home({results}) {
